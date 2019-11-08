@@ -10,4 +10,6 @@
 <img src="https://github.com/markshope.png" width="250"><br/>
 Mark Shope
 
-International Attorney; AI for Lawyers; Coding for Lawyers
+* [International Attorney](https://www.markshopelaw.com)
+* [AI, Blockchain, and Coding for Lawyers](https://institute.markshope.com/)
+* [Taiwan](https://taiwanlawresources.net/)
